@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("You Have Been Banned Reason | Duping")
+game.Players.LocalPlayer:Kick("Banned Reason | Duping")
